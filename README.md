@@ -1,5 +1,6 @@
 # ⚙️ ê/uto Tools & Configuration Guide  
 *A shared toolkit for creators, thinkers, and builders of the Effective Utopia.*
+https://discord.com/channels/1390059453579006022/1429135872577634374
 
 ---
 
